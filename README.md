@@ -1,2 +1,0 @@
-# TheArtWeb.github.io
-Hosting
